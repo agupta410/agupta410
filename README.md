@@ -1,4 +1,4 @@
--  Hi, I’m @agupta410
+-  Hi, I’m @ashish5653
 -  I’m interested in Data Analyst.
 -  I’m currently learning Data Analysis
 -  I’m looking to collaborate on Python,Power BI, SQL
